@@ -1,0 +1,28 @@
+_repo: The-New-Dr.-Price-Cookbook_13669
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 13669-h/images/price-cover_th.jpg
+creator:
+  author:
+    agent_name: Royal Baking Powder Company
+    aliases:
+    - Royal Baking Powder Co.
+    - Royal Baking Powder Company, New York
+    gutenberg_agent_id: '5666'
+    url: http://www.gutenberg.org/2009/agents/5666
+description: ''
+gutenberg_bookshelf: Cookery
+gutenberg_issued: '2004-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13669'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Cooking'
+title: The New Dr. Price Cookbook
+url: http://www.gutenberg.org/ebooks/13669
