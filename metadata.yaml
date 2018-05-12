@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5666'
     url: http://www.gutenberg.org/2009/agents/5666
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13669#The-New-Dr.-Price-Cookbook
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-10-07'
 gutenberg_type: Text
